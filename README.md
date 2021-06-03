@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I have a twin brother. Check him out <a href="https://github.com/sconsul" target="_blank">@sconsul</a>
 =
 ### Connect with me:
-[<img align="left" alt="Saksham's website" width="22px" src="https://saksham36.github.io/assets/img/favicon.png" />](https://saksham36.github.io/)
+[<img align="left" alt="Saksham's website" width="22px" src="https://saksham36.github.io/assets/images/favicon/favicon.ico" />](https://saksham36.github.io/)
 [<img align="left" alt="Twitter | Saksham" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SakshamConsul)
 [<img align="left" alt="Saksham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saksham-consul-68b421138/)
 
